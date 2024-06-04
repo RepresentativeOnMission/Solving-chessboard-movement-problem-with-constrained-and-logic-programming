@@ -9,3 +9,6 @@ Below you can see the mean and variances obtained by each category in both Cling
 
 ![alt text](https://github.com/RepresentativeOnMission/Solving-chessboard-movement-problem-with-constrained-and-logic-programming/blob/main/images/time_mean.png?raw=true)
 ![alt text](https://github.com/RepresentativeOnMission/Solving-chessboard-movement-problem-with-constrained-and-logic-programming/blob/main/images/time_variance.png?raw=true)
+
+## Further details
+A complete description of the tools used to solve the problem with Clingo and Minizinc can be found in "./report.pdf". Note, however, that the report is written in italian.
